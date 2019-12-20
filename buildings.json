@@ -1,0 +1,230 @@
+[
+  {
+    "Building Name": "Accolade East",
+    "CAT": "ACE",
+    "Lat": 43.77286019718361,
+    "Long": -79.49988126754761
+  },
+  {
+    "Building Name": "Accolade West",
+    "CAT": "ACW",
+    "Lat": 43.77259291943594,
+    "Long": -79.5017158985138
+  },
+  {
+    "Building Name": "Archives of Ontario",
+    "CAT": "AO",
+    "Lat": 43.77492865414073,
+    "Long": -79.50053036212921
+  },
+  {
+    "Building Name": "Atkinson",
+    "CAT": "ATK",
+    "Lat": 43.771043459683405,
+    "Long": -79.50249910354614
+  },
+  {
+    "Building Name": "Atkinson Residence",
+    "CAT": "AR",
+    "Lat": 43.77130493383217,
+    "Long": -79.50172394514084
+  },
+  {
+    "Building Name": "Calumet College",
+    "CAT": "CC",
+    "Lat": 43.77295703665247,
+    "Long": -79.5095157623291
+  },
+  {
+    "Building Name": "Calumet Residence",
+    "CAT": "CR",
+    "Lat": 43.772224926379565,
+    "Long": -79.50970888137817
+  },
+  {
+    "Building Name": "Canlan Ice Sports",
+    "CAT": "ICE",
+    "Lat": 43.774580042812545,
+    "Long": -79.51379656791687
+  },
+  {
+    "Building Name": "Central Square",
+    "CAT": "CSQ",
+    "Lat": 43.77284276606259,
+    "Long": -79.50489163398743
+  },
+  {
+    "Building Name": "Chemistry",
+    "CAT": "CB",
+    "Lat": 43.773317278099924,
+    "Long": -79.50785279273987
+  },
+  {
+    "Building Name": "Curtis Lecture Halls",
+    "CAT": "CLH",
+    "Lat": 43.77316233580783,
+    "Long": -79.50520277023315
+  },
+  {
+    "Building Name": "Farquharson Life Sciences",
+    "CAT": "FRQ",
+    "Lat": 43.774231429452115,
+    "Long": -79.50453758239746
+  },
+  {
+    "Building Name": "Founders Residence",
+    "CAT": "FR",
+    "Lat": 43.776158461206634,
+    "Long": -79.50401186943054
+  },
+  {
+    "Building Name": "Lassonde Building",
+    "CAT": "LAS",
+    "Lat": 43.77392929622919,
+    "Long": -79.50523495674133
+  },
+  {
+    "Building Name": "Life Sciences Building",
+    "CAT": "LSB",
+    "Lat": 43.77417720052451,
+    "Long": -79.5078581571579
+  },
+  {
+    "Building Name": "Lumbers",
+    "CAT": "LUM",
+    "Lat": 43.77468849988797,
+    "Long": -79.50496673583984
+  },
+  {
+    "Building Name": "Norman Bethune College",
+    "CAT": "BC",
+    "Lat": 43.773146841556546,
+    "Long": -79.50889348983765
+  },
+  {
+    "Building Name": "Norman Bethune Residence",
+    "CAT": "BR",
+    "Lat": 43.77314877833817,
+    "Long": -79.50844556093216
+  },
+  {
+    "Building Name": "Petrie Science & Engineering",
+    "CAT": "PSE",
+    "Lat": 43.77362716147983,
+    "Long": -79.50697302818298
+  },
+  {
+    "Building Name": "Ross Building",
+    "CAT": "R",
+    "Lat": 43.772674264963854,
+    "Long": -79.50411915779114
+  },
+  {
+    "Building Name": "Sherman Health Science Research Centre",
+    "CAT": "SHR",
+    "Lat": 43.775168807429,
+    "Long": -79.51188683509827
+  },
+  {
+    "Building Name": "Stedman Lecture Halls",
+    "CAT": "SLH",
+    "Lat": 43.77437862200773,
+    "Long": -79.5031750202179
+  },
+  {
+    "Building Name": "Stong College",
+    "CAT": "SC",
+    "Lat": 43.77279047266896,
+    "Long": -79.50833022594452
+  },
+  {
+    "Building Name": "Stong Residence",
+    "CAT": "SRC",
+    "Lat": 43.77243022804815,
+    "Long": -79.50863063335419
+  },
+  {
+    "Building Name": "Student Centre",
+    "CAT": "STC",
+    "Lat": 43.77389056109024,
+    "Long": -79.50291752815247
+  },
+  {
+    "Building Name": "Tait McKenzie Centre",
+    "CAT": "TM",
+    "Lat": 43.77450257335253,
+    "Long": -79.5095694065094
+  },
+  {
+    "Building Name": "Tatham Hall",
+    "CAT": "TH",
+    "Lat": 43.77710549224481,
+    "Long": -79.50224697589874
+  },
+  {
+    "Building Name": "Technology Enhanced Learning",
+    "CAT": "TEL",
+    "Lat": 43.771357228524735,
+    "Long": -79.50069665908813
+  },
+  {
+    "Building Name": "Tennis Canada – Rexall Centre",
+    "CAT": "REXL",
+    "Lat": 43.77154316483914,
+    "Long": -79.51207995414734
+  },
+  {
+    "Building Name": "The Pond Road Residence",
+    "CAT": "PON",
+    "Lat": 43.77043141202119,
+    "Long": -79.50165688991547
+  },
+  {
+    "Building Name": "Track & Field Centre",
+    "CAT": "TFC",
+    "Lat": 43.77658646686669,
+    "Long": -79.5069408416748
+  },
+  {
+    "Building Name": "Vanier College",
+    "CAT": "VC",
+    "Lat": 43.775517415324906,
+    "Long": -79.50220942497253
+  },
+  {
+    "Building Name": "Vanier Residence",
+    "CAT": "VR",
+    "Lat": 43.775416706585965,
+    "Long": -79.50268685817719
+  },
+  {
+    "Building Name": "Vari Hall",
+    "CAT": "VH",
+    "Lat": 43.77268975933758,
+    "Long": -79.50340032577515
+  },
+  {
+    "Building Name": "William Small Centre",
+    "CAT": "WSC",
+    "Lat": 43.77290280656923,
+    "Long": -79.5076596736908
+  },
+  {
+    "Building Name": "Winters College",
+    "CAT": "WC",
+    "Lat": 43.77620300492492,
+    "Long": -79.50257956981659
+  },
+  {
+    "Building Name": "Winters Residence",
+    "CAT": "WR",
+    "Lat": 43.776514810023976,
+    "Long": -79.50115263462067
+  },
+  {
+    "Building Name": "York Lanes",
+    "CAT": "YL",
+    "Lat": 43.774314709495194,
+    "Long": -79.50152814388275
+  }
+]
