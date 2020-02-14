@@ -352,145 +352,89 @@
     {
     "Building Name": "LA&PS @ IBM Markham",
     "CAT": "LMP",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },
    {
     "Building Name": "Ignat Kaneff Building, Osgoode Hall Law School",
     "CAT": "OSG",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "Rob and Cheryl McEwen Graduate Study & Research Building",
     "CAT": "MB",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "McLaughlin College",
     "CAT": "MC",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "Passy Gardens Residence",
     "CAT": "PASSY",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "Physical Resources Building",
     "CAT": "PRB",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "Ross Building - North",
     "CAT": "R N",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "Ross Building - South",
     "CAT": "R S",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "Seneca @ York",
     "CAT": "SAY",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "Scott Library",
     "CAT": "SCL",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "The Seymour Schulich Building",
     "CAT": "SSB",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },{
     "Building Name": "Steacie Science & Engineering Library",
     "CAT": "STL",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },
   {
     "Building Name": "West Office Building",
     "CAT": "WOB",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
   },
   {
     "Building Name": "York Student Fieldhouse (East/West) (Tait McKenzie Building)",
     "CAT": "YSF",
-    "Lat": ""
+    "Lat": "",
     "Long": "",
     "image": ""
-  },
-  {
-    "Building Name": "",
-    "CAT": "",
-    "Lat": ""
-    "Long": "",
-    "image": ""
-  },
-  {
-    "Building Name": "",
-    "CAT": "",
-    "Lat": ""
-    "Long": "",
-    "image": ""
-  },
-  {
-    "Building Name": "",
-    "CAT": "",
-    "Lat": ""
-    "Long": "",
-    "image": ""
-  },
-  {
-    "Building Name": "",
-    "CAT": "",
-    "Lat": ""
-    "Long": "",
-    "image": ""
-  },
-  {
-    "Building Name": "",
-    "CAT": "",
-    "Lat": ""
-    "Long": "",
-    "image": ""
-  },
-  {
-    "Building Name": "",
-    "CAT": "",
-    "Lat": ""
-    "Long": "",
-    "image": ""
-  },
-  {
-    "Building Name": "",
-    "CAT": "",
-    "Lat": ""
-    "Long": "",
-    "image": ""
-  },
-  {
-    "Building Name": "",
-    "CAT": "",
-    "Lat": ""
-    "Long": "",
-    "image": ""
-  },
+  }
 ]
