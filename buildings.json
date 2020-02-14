@@ -133,13 +133,6 @@
     "image": ""
   },
   {
-    "Building Name": "Ross Building",
-    "CAT": "R",
-    "Lat": 43.772674264963854,
-    "Long": -79.50411915779114,
-    "image": "https://pics.librarything.com/picsizes/13/92/1392253eab993886371346374674259416c6743.jpg"
-  },
-  {
     "Building Name": "Sherman Health Science Research Centre",
     "CAT": "SHR",
     "Lat": 43.775168807429,
@@ -175,7 +168,7 @@
     "image": ""
   },
   {
-    "Building Name": "Tait McKenzie Centre",
+    "Building Name": "Tait McKenzie",
     "CAT": "TM",
     "Lat": 43.77450257335253,
     "Long": -79.5095694065094,
@@ -189,15 +182,15 @@
     "image": ""
   },
   {
-    "Building Name": "Technology Enhanced Learning",
-    "CAT": "TEL",
+    "Building Name": "Victor Phillip Dahdaleh Building",
+    "CAT": "DB",
     "Lat": 43.771357228524735,
     "Long": -79.50069665908813,
     "image": ""
   },
   {
-    "Building Name": "Tennis Canada – Rexall Centre",
-    "CAT": "REXL",
+    "Building Name": "Tennis Canada – Aviva Centre",
+    "CAT": "TC",
     "Lat": 43.77154316483914,
     "Long": -79.51207995414734,
     "image": ""
@@ -210,7 +203,7 @@
     "image": ""
   },
   {
-    "Building Name": "Track & Field Centre",
+    "Building Name": "Toronto Track & Field Centre",
     "CAT": "TFC",
     "Lat": 43.77658646686669,
     "Long": -79.5069408416748,
@@ -264,5 +257,240 @@
     "Lat": 43.774314709495194,
     "Long": -79.50152814388275,
     "image": ""
-  }
+  },
+  {
+    "Building Name": "Bennett Centre",
+    "CAT": "BCSS",
+    "Lat": 43.772376,
+    "Long": -79.498681,
+    "image": "https://secure.students.yorku.ca/sites/default/files/images/bennett-centre.png"
+  },
+  {
+    "Building Name": "Behavioural Sciences",
+    "CAT": "BSB",
+    "Lat": 43.773719,
+    "Long": -79.503723,
+    "image": "http://2.bp.blogspot.com/-RLEWBhr5q8U/TyGk8btLZSI/AAAAAAAAAMI/Ql3er5I73H0/s1600/behavourial-50-copy.jpg"
+  },
+  {
+    "Building Name": "Burton Auditorium",
+    "CAT": "BU",
+    "Lat": 43.772775,
+    "Long": -79.501858,
+    "image": ""
+  },
+  {
+    "Building Name": "Joan & Martin Goldfarb Centre for Fine Arts",
+    "CAT": "CFA",
+    "Lat": 43.772046,
+    "Long": -79.502152,
+    "image": ""
+  },
+  {
+    "Building Name": "Computer Methods Building",
+    "CAT": "CMB",
+    "Lat": 43.778837,
+    "Long": -79.495399,
+    "image": ""
+  },
+  {
+    "Building Name": "Centre for Film and Theatre",
+    "CAT": "CFT",
+    "Lat": 43.772686,
+    "Long": -79.501142,
+    "image": ""
+  },
+  {
+    "Building Name": "Central Utilities Building",
+    "CAT": "CUB",
+    "Lat": 43.777686,
+    "Long": -79.498751,
+    "image": ""
+  },
+  {
+    "Building Name": "Executive Learning Centre",
+    "CAT": "ELC",
+    "Lat": 43.773005,
+    "Long": -79.498026,
+    "image": ""
+  },
+    {
+    "Building Name": "Founders College",
+    "CAT": "FC",
+    "Lat": 43.775867,
+    "Long": -79.503180,
+    "image": ""
+  },
+    {
+    "Building Name": "Lorna R. Marsden Honour Court & Welcome Centre",
+    "CAT": "HC",
+    "Lat": 43.774246,
+    "Long": -79.498602,
+    "image": ""
+  },
+    {
+    "Building Name": "Health, Nursing, and Environmental Studies",
+    "CAT": "HNE",
+    "Lat": 43.771297,
+    "Long": -79.504332,
+    "image": ""
+  },
+    {
+    "Building Name": "Kaneff Tower",
+    "CAT": "KT",
+    "Lat": 43.774785,
+    "Long": -79.500616,
+    "image": ""
+  },
+    {
+    "Building Name": "Kinsmen Building",
+    "CAT": "K",
+    "Lat": 43.778063,
+    "Long": -79.495531,
+    "image": ""
+  },
+    {
+    "Building Name": "LA&PS @ IBM Markham",
+    "CAT": "LMP",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+   {
+    "Building Name": "Ignat Kaneff Building, Osgoode Hall Law School",
+    "CAT": "OSG",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "Rob and Cheryl McEwen Graduate Study & Research Building",
+    "CAT": "MB",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "McLaughlin College",
+    "CAT": "MC",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "Passy Gardens Residence",
+    "CAT": "PASSY",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "Physical Resources Building",
+    "CAT": "PRB",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "Ross Building - North",
+    "CAT": "R N",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "Ross Building - South",
+    "CAT": "R S",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "Seneca @ York",
+    "CAT": "SAY",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "Scott Library",
+    "CAT": "SCL",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "The Seymour Schulich Building",
+    "CAT": "SSB",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },{
+    "Building Name": "Steacie Science & Engineering Library",
+    "CAT": "STL",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "West Office Building",
+    "CAT": "WOB",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "York Student Fieldhouse (East/West) (Tait McKenzie Building)",
+    "CAT": "YSF",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "",
+    "CAT": "",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "",
+    "CAT": "",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "",
+    "CAT": "",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "",
+    "CAT": "",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "",
+    "CAT": "",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "",
+    "CAT": "",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "",
+    "CAT": "",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
+  {
+    "Building Name": "",
+    "CAT": "",
+    "Lat": ""
+    "Long": "",
+    "image": ""
+  },
 ]
