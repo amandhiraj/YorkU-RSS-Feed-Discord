@@ -1,440 +1,464 @@
 [
-  {
-    "name": "Accolade East",
-    "acronym": "ACE",
-    "latitude": 43.77286019718361,
-    "longitude": -79.49988126754761,
-    "image": "https://live.staticflickr.com/4093/4776847101_d74e3ee538_b.jpg"
-  },
-  {
-    "name": "Accolade West",
-    "acronym": "ACW",
-    "latitude": 43.77259291943594,
-    "longitude": -79.5017158985138,
-    "image": "https://i.pinimg.com/originals/97/53/0f/97530fada9de4e52e6053322a10c59c0.jpg"
-  },
-  {
-    "name": "Archives of Ontario",
-    "acronym": "AO",
-    "latitude": 43.77492865414073,
-    "longitude": -79.50053036212921,
-    "image": "https://live.staticflickr.com/4093/4776847101_d74e3ee538_b.jpg"
-  },
-  {
-    "name": "Atkinson",
-    "acronym": "ATK",
-    "latitude": 43.771043459683405,
-    "longitude": -79.50249910354614,
-    "image": ""
-  },
-  {
-    "name": "Atkinson Residence",
-    "acronym": "AR",
-    "latitude": 43.77130493383217,
-    "longitude": -79.50172394514084,
-    "image": ""
-  },
-  {
-    "name": "Calumet College",
-    "acronym": "CC",
-    "latitude": 43.77295703665247,
-    "longitude": -79.5095157623291,
-    "image": ""
-  },
-  {
-    "name": "Calumet Residence",
-    "acronym": "CR",
-    "latitude": 43.772224926379565,
-    "longitude": -79.50970888137817,
-    "image": ""
-  },
-  {
-    "name": "Canlan Ice Sports",
-    "acronym": "ICE",
-    "latitude": 43.774580042812545,
-    "longitude": -79.51379656791687,
-    "image": ""
-  },
-  {
-    "name": "Central Square",
-    "acronym": "CSQ",
-    "latitude": 43.77284276606259,
-    "longitude": -79.50489163398743,
-    "image": ""
-  },
-  {
-    "name": "Chemistry",
-    "acronym": "CB",
-    "latitude": 43.773317278099924,
-    "longitude": -79.50785279273987,
-    "image": ""
-  },
-  {
-    "name": "Curtis Lecture Halls",
-    "acronym": "CLH",
-    "latitude": 43.77316233580783,
-    "longitude": -79.50520277023315,
-    "image": ""
-  },
-  {
-    "name": "Farquharson Life Sciences",
-    "acronym": "FRQ",
-    "latitude": 43.774231429452115,
-    "longitude": -79.50453758239746,
-    "image": ""
-  },
-  {
-    "name": "Founders Residence",
-    "acronym": "FR",
-    "latitude": 43.776158461206634,
-    "longitude": -79.50401186943054,
-    "image": ""
-  },
-  {
-    "name": "Lassonde Building",
-    "acronym": "LAS",
-    "latitude": 43.77392929622919,
-    "longitude": -79.50523495674133,
-    "image": ""
-  },
-  {
-    "name": "Life Sciences Building",
-    "acronym": "LSB",
-    "latitude": 43.77417720052451,
-    "longitude": -79.5078581571579,
-    "image": ""
-  },
-  {
-    "name": "Lumbers",
-    "acronym": "LUM",
-    "latitude": 43.77468849988797,
-    "longitude": -79.50496673583984,
-    "image": ""
-  },
-  {
-    "name": "Norman Bethune College",
-    "acronym": "BC",
-    "latitude": 43.773146841556546,
-    "longitude": -79.50889348983765,
-    "image": "https://cdn.canada247.info/assets/uploads/98745489632095bd7cd161f34a7c408e_-ontario-toronto-division-toronto-north-york-norman-bethune-collegehtml.jpg"
-  },
-  {
-    "name": "Norman Bethune Residence",
-    "acronym": "BR",
-    "latitude": 43.77314877833817,
-    "longitude": -79.50844556093216,
-    "image": ""
-  },
-  {
-    "name": "Petrie Science & Engineering",
-    "acronym": "PSE",
-    "latitude": 43.77362716147983,
-    "longitude": -79.50697302818298,
-    "image": ""
-  },
-  {
-    "name": "Sherman Health Science Research Centre",
-    "acronym": "SHR",
-    "latitude": 43.775168807429,
-    "longitude": -79.51188683509827,
-    "image": ""
-  },
-  {
-    "name": "Stedman Lecture Halls",
-    "acronym": "SLH",
-    "latitude": 43.77437862200773,
-    "longitude": -79.5031750202179,
-    "image": ""
-  },
-  {
-    "name": "Stong College",
-    "acronym": "SC",
-    "latitude": 43.77279047266896,
-    "longitude": -79.50833022594452,
-    "image": ""
-  },
-  {
-    "name": "Stong Residence",
-    "acronym": "SRC",
-    "latitude": 43.77243022804815,
-    "longitude": -79.50863063335419,
-    "image": ""
-  },
-  {
-    "name": "Student Centre",
-    "acronym": "STC",
-    "latitude": 43.77389056109024,
-    "longitude": -79.50291752815247,
-    "image": ""
-  },
-  {
-    "name": "Tait McKenzie",
-    "acronym": "TM",
-    "latitude": 43.77450257335253,
-    "longitude": -79.5095694065094,
-    "image": ""
-  },
-  {
-    "name": "Tatham Hall",
-    "acronym": "TH",
-    "latitude": 43.77710549224481,
-    "longitude": -79.50224697589874,
-    "image": ""
-  },
-  {
-    "name": "Victor Phillip Dahdaleh Building",
-    "acronym": "DB",
-    "latitude": 43.771357228524735,
-    "longitude": -79.50069665908813,
-    "image": ""
-  },
-  {
-    "name": "Tennis Canada – Aviva Centre",
-    "acronym": "TC",
-    "latitude": 43.77154316483914,
-    "longitude": -79.51207995414734,
-    "image": ""
-  },
-  {
-    "name": "The Pond Road Residence",
-    "acronym": "PON",
-    "latitude": 43.77043141202119,
-    "longitude": -79.50165688991547,
-    "image": ""
-  },
-  {
-    "name": "Toronto Track & Field Centre",
-    "acronym": "TFC",
-    "latitude": 43.77658646686669,
-    "longitude": -79.5069408416748,
-    "image": ""
-  },
-  {
-    "name": "Vanier College",
-    "acronym": "VC",
-    "latitude": 43.775517415324906,
-    "longitude": -79.50220942497253,
-    "image": ""
-  },
-  {
-    "name": "Vanier Residence",
-    "acronym": "VR",
-    "latitude": 43.775416706585965,
-    "longitude": -79.50268685817719,
-    "image": ""
-  },
-  {
-    "name": "Vari Hall",
-    "acronym": "VH",
-    "latitude": 43.77268975933758,
-    "longitude": -79.50340032577515,
-    "image": ""
-  },
-  {
-    "name": "William Small Centre",
-    "acronym": "WSC",
-    "latitude": 43.77290280656923,
-    "longitude": -79.5076596736908,
-    "image": ""
-  },
-  {
-    "name": "Winters College",
-    "acronym": "WC",
-    "latitude": 43.77620300492492,
-    "longitude": -79.50257956981659,
-    "image": ""
-  },
-  {
-    "name": "Winters Residence",
-    "acronym": "WR",
-    "latitude": 43.776514810023976,
-    "longitude": -79.50115263462067,
-    "image": ""
-  },
-  {
-    "name": "York Lanes",
-    "acronym": "YL",
-    "latitude": 43.774314709495194,
-    "longitude": -79.50152814388275,
-    "image": ""
-  },
-  {
-    "name": "Bennett Centre",
-    "acronym": "BCSS",
-    "latitude": 43.772376,
-    "longitude": -79.498681,
-    "image": "https://secure.students.yorku.ca/sites/default/files/images/bennett-centre.png"
-  },
-  {
-    "name": "Behavioural Sciences",
-    "acronym": "BSB",
-    "latitude": 43.773719,
-    "longitude": -79.503723,
-    "image": "http://2.bp.blogspot.com/-RLEWBhr5q8U/TyGk8btLZSI/AAAAAAAAAMI/Ql3er5I73H0/s1600/behavourial-50-copy.jpg"
-  },
-  {
-    "name": "Burton Auditorium",
-    "acronym": "BU",
-    "latitude": 43.772775,
-    "longitude": -79.501858,
-    "image": ""
-  },
-  {
-    "name": "Joan & Martin Goldfarb Centre for Fine Arts",
-    "acronym": "CFA",
-    "latitude": 43.772046,
-    "longitude": -79.502152,
-    "image": ""
-  },
-  {
-    "name": "Computer Methods Building",
-    "acronym": "CMB",
-    "latitude": 43.778837,
-    "longitude": -79.495399,
-    "image": ""
-  },
-  {
-    "name": "Centre for Film and Theatre",
-    "acronym": "CFT",
-    "latitude": 43.772686,
-    "longitude": -79.501142,
-    "image": ""
-  },
-  {
-    "name": "Central Utilities Building",
-    "acronym": "CUB",
-    "latitude": 43.777686,
-    "longitude": -79.498751,
-    "image": ""
-  },
-  {
-    "name": "Executive Learning Centre",
-    "acronym": "ELC",
-    "latitude": 43.773005,
-    "longitude": -79.498026,
-    "image": ""
-  },
-    {
-    "name": "Founders College",
-    "acronym": "FC",
-    "latitude": 43.775867,
-    "longitude": -79.503180,
-    "image": ""
-  },
-    {
-    "name": "Lorna R. Marsden Honour Court & Welcome Centre",
-    "acronym": "HC",
-    "latitude": 43.774246,
-    "longitude": -79.498602,
-    "image": ""
-  },
-    {
-    "name": "Health, Nursing, and Environmental Studies",
-    "acronym": "HNE",
-    "latitude": 43.771297,
-    "longitude": -79.504332,
-    "image": ""
-  },
-    {
-    "name": "Kaneff Tower",
-    "acronym": "KT",
-    "latitude": 43.774785,
-    "longitude": -79.500616,
-    "image": ""
-  },
-    {
-    "name": "Kinsmen Building",
-    "acronym": "K",
-    "latitude": 43.778063,
-    "longitude": -79.495531,
-    "image": ""
-  },
-    {
-    "name": "LA&PS @ IBM Markham",
-    "acronym": "LMP",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },
    {
-    "name": "Ignat Kaneff Building, Osgoode Hall Law School",
-    "acronym": "OSG",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "Rob and Cheryl McEwen Graduate Study & Research Building",
-    "acronym": "MB",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "McLaughlin College",
-    "acronym": "MC",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "Passy Gardens Residence",
-    "acronym": "PASSY",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "Physical Resources Building",
-    "acronym": "PRB",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "Ross Building - North",
-    "acronym": "R N",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "Ross Building - South",
-    "acronym": "R S",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "Seneca @ York",
-    "acronym": "SAY",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "Scott Library",
-    "acronym": "SCL",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "The Seymour Schulich Building",
-    "acronym": "SSB",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },{
-    "name": "Steacie Science & Engineering Library",
-    "acronym": "STL",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },
-  {
-    "name": "West Office Building",
-    "acronym": "WOB",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  },
-  {
-    "name": "York Student Fieldhouse (East/West) (Tait McKenzie Building)",
-    "acronym": "YSF",
-    "latitude": 43.778063,
-    "longitude": -79.500616,
-    "image": ""
-  }
+      "name":"Accolade East",
+      "acronym":"ACE",
+      "latitude":43.77286019718361,
+      "longitude":-79.49988126754761,
+      "image":"https://live.staticflickr.com/4093/4776847101_d74e3ee538_b.jpg"
+   },
+   {
+      "name":"Accolade West",
+      "acronym":"ACW",
+      "latitude":43.77259291943594,
+      "longitude":-79.5017158985138,
+      "image":"https://i.pinimg.com/originals/97/53/0f/97530fada9de4e52e6053322a10c59c0.jpg"
+   },
+   {
+      "name":"Archives of Ontario",
+      "acronym":"AO",
+      "latitude":43.77492865414073,
+      "longitude":-79.50053036212921,
+      "image":"https://live.staticflickr.com/4093/4776847101_d74e3ee538_b.jpg"
+   },
+   {
+      "name":"Atkinson",
+      "acronym":"ATK",
+      "latitude":43.771043459683405,
+      "longitude":-79.50249910354614,
+      "image":""
+   },
+   {
+      "name":"Atkinson Residence",
+      "acronym":"AR",
+      "latitude":43.77130493383217,
+      "longitude":-79.50172394514084,
+      "image":""
+   },
+   {
+      "name":"Calumet College",
+      "acronym":"CC",
+      "latitude":43.77295703665247,
+      "longitude":-79.5095157623291,
+      "image":""
+   },
+   {
+      "name":"Calumet Residence",
+      "acronym":"CR",
+      "latitude":43.772224926379565,
+      "longitude":-79.50970888137817,
+      "image":""
+   },
+   {
+      "name":"Canlan Ice Sports",
+      "acronym":"ICE",
+      "latitude":43.774580042812545,
+      "longitude":-79.51379656791687,
+      "image":""
+   },
+   {
+      "name":"Central Square",
+      "acronym":"CSQ",
+      "latitude":43.77284276606259,
+      "longitude":-79.50489163398743,
+      "image":""
+   },
+   {
+      "name":"Chemistry",
+      "acronym":"CB",
+      "latitude":43.773317278099924,
+      "longitude":-79.50785279273987,
+      "image":""
+   },
+   {
+      "name":"Curtis Lecture Halls",
+      "acronym":"CLH",
+      "latitude":43.77316233580783,
+      "longitude":-79.50520277023315,
+      "image":""
+   },
+   {
+      "name":"Farquharson Life Sciences",
+      "acronym":"FRQ",
+      "latitude":43.774231429452115,
+      "longitude":-79.50453758239746,
+      "image":""
+   },
+   {
+      "name":"Founders Residence",
+      "acronym":"FR",
+      "latitude":43.776158461206634,
+      "longitude":-79.50401186943054,
+      "image":""
+   },
+   {
+      "name":"Lassonde Building",
+      "acronym":"LAS",
+      "latitude":43.77392929622919,
+      "longitude":-79.50523495674133,
+      "image":""
+   },
+   {
+      "name":"Life Sciences Building",
+      "acronym":"LSB",
+      "latitude":43.77417720052451,
+      "longitude":-79.5078581571579,
+      "image":""
+   },
+   {
+      "name":"Lumbers",
+      "acronym":"LUM",
+      "latitude":43.77468849988797,
+      "longitude":-79.50496673583984,
+      "image":""
+   },
+   {
+      "name":"Norman Bethune College",
+      "acronym":"BC",
+      "latitude":43.773146841556546,
+      "longitude":-79.50889348983765,
+      "image":"https://cdn.canada247.info/assets/uploads/98745489632095bd7cd161f34a7c408e_-ontario-toronto-division-toronto-north-york-norman-bethune-collegehtml.jpg"
+   },
+   {
+      "name":"Norman Bethune Residence",
+      "acronym":"BR",
+      "latitude":43.77314877833817,
+      "longitude":-79.50844556093216,
+      "image":""
+   },
+   {
+      "name":"Petrie Science & Engineering",
+      "acronym":"PSE",
+      "latitude":43.77362716147983,
+      "longitude":-79.50697302818298,
+      "image":""
+   },
+   {
+      "name":"Sherman Health Science Research Centre",
+      "acronym":"SHR",
+      "latitude":43.775168807429,
+      "longitude":-79.51188683509827,
+      "image":""
+   },
+   {
+      "name":"Stedman Lecture Halls",
+      "acronym":"SLH",
+      "latitude":43.77437862200773,
+      "longitude":-79.5031750202179,
+      "image":""
+   },
+   {
+      "name":"Stong College",
+      "acronym":"SC",
+      "latitude":43.77279047266896,
+      "longitude":-79.50833022594452,
+      "image":""
+   },
+   {
+      "name":"Stong Residence",
+      "acronym":"SRC",
+      "latitude":43.77243022804815,
+      "longitude":-79.50863063335419,
+      "image":""
+   },
+   {
+      "name":"Student Centre",
+      "acronym":"STC",
+      "latitude":43.77389056109024,
+      "longitude":-79.50291752815247,
+      "image":""
+   },
+   {
+      "name":"Tait McKenzie",
+      "acronym":"TM",
+      "latitude":43.77450257335253,
+      "longitude":-79.5095694065094,
+      "image":""
+   },
+   {
+      "name":"Tatham Hall",
+      "acronym":"TH",
+      "latitude":43.77710549224481,
+      "longitude":-79.50224697589874,
+      "image":""
+   },
+   {
+      "name":"Victor Phillip Dahdaleh Building",
+      "acronym":"DB",
+      "latitude":43.771357228524735,
+      "longitude":-79.50069665908813,
+      "image":""
+   },
+   {
+      "name":"Tennis Canada – Aviva Centre",
+      "acronym":"TC",
+      "latitude":43.77154316483914,
+      "longitude":-79.51207995414734,
+      "image":""
+   },
+   {
+      "name":"The Pond Road Residence",
+      "acronym":"PON",
+      "latitude":43.77043141202119,
+      "longitude":-79.50165688991547,
+      "image":""
+   },
+   {
+      "name":"Toronto Track & Field Centre",
+      "acronym":"TFC",
+      "latitude":43.77658646686669,
+      "longitude":-79.5069408416748,
+      "image":""
+   },
+   {
+      "name":"Vanier College",
+      "acronym":"VC",
+      "latitude":43.775517415324906,
+      "longitude":-79.50220942497253,
+      "image":""
+   },
+   {
+      "name":"Vanier Residence",
+      "acronym":"VR",
+      "latitude":43.775416706585965,
+      "longitude":-79.50268685817719,
+      "image":""
+   },
+   {
+      "name":"Vari Hall",
+      "acronym":"VH",
+      "latitude":43.77268975933758,
+      "longitude":-79.50340032577515,
+      "image":""
+   },
+   {
+      "name":"William Small Centre",
+      "acronym":"WSC",
+      "latitude":43.77290280656923,
+      "longitude":-79.5076596736908,
+      "image":""
+   },
+   {
+      "name":"Winters College",
+      "acronym":"WC",
+      "latitude":43.77620300492492,
+      "longitude":-79.50257956981659,
+      "image":""
+   },
+   {
+      "name":"Winters Residence",
+      "acronym":"WR",
+      "latitude":43.776514810023976,
+      "longitude":-79.50115263462067,
+      "image":""
+   },
+   {
+      "name":"York Lanes",
+      "acronym":"YL",
+      "latitude":43.774314709495194,
+      "longitude":-79.50152814388275,
+      "image":""
+   },
+   {
+      "name":"Bennett Centre",
+      "acronym":"BCSS",
+      "latitude":43.772376,
+      "longitude":-79.498681,
+      "image":"https://secure.students.yorku.ca/sites/default/files/images/bennett-centre.png"
+   },
+   {
+      "name":"Behavioural Sciences",
+      "acronym":"BSB",
+      "latitude":43.773719,
+      "longitude":-79.503723,
+      "image":"http://2.bp.blogspot.com/-RLEWBhr5q8U/TyGk8btLZSI/AAAAAAAAAMI/Ql3er5I73H0/s1600/behavourial-50-copy.jpg"
+   },
+   {
+      "name":"Burton Auditorium",
+      "acronym":"BU",
+      "latitude":43.772775,
+      "longitude":-79.501858,
+      "image":""
+   },
+   {
+      "name":"Joan & Martin Goldfarb Centre for Fine Arts",
+      "acronym":"CFA",
+      "latitude":43.772046,
+      "longitude":-79.502152,
+      "image":""
+   },
+   {
+      "name":"Computer Methods Building",
+      "acronym":"CMB",
+      "latitude":43.778837,
+      "longitude":-79.495399,
+      "image":""
+   },
+   {
+      "name":"Centre for Film and Theatre",
+      "acronym":"CFT",
+      "latitude":43.772686,
+      "longitude":-79.501142,
+      "image":""
+   },
+   {
+      "name":"Central Utilities Building",
+      "acronym":"CUB",
+      "latitude":43.777686,
+      "longitude":-79.498751,
+      "image":""
+   },
+   {
+      "name":"Executive Learning Centre",
+      "acronym":"ELC",
+      "latitude":43.773005,
+      "longitude":-79.498026,
+      "image":""
+   },
+   {
+      "name":"Founders College",
+      "acronym":"FC",
+      "latitude":43.775867,
+      "longitude":-79.503180,
+      "image":""
+   },
+   {
+      "name":"Lorna R. Marsden Honour Court & Welcome Centre",
+      "acronym":"HC",
+      "latitude":43.774246,
+      "longitude":-79.498602,
+      "image":""
+   },
+   {
+      "name":"Health, Nursing, and Environmental Studies",
+      "acronym":"HNE",
+      "latitude":43.771297,
+      "longitude":-79.504332,
+      "image":""
+   },
+   {
+      "name":"Kaneff Tower",
+      "acronym":"KT",
+      "latitude":43.774785,
+      "longitude":-79.500616,
+      "image":""
+   },
+   {
+      "name":"Kinsmen Building",
+      "acronym":"K",
+      "latitude":43.778063,
+      "longitude":-79.495531,
+      "image":""
+   },
+   {
+      "name":"LA&PS @ IBM Markham",
+      "acronym":"LMP",
+      "latitude":43.818109,
+      "longitude":-79.335527,
+      "image":""
+   },
+   {
+      "name":"Ignat Kaneff Building, Osgoode Hall Law School",
+      "acronym":"OSG",
+      "latitude":43.770898,
+      "longitude":-79.504362,
+      "image":""
+   },
+   {
+      "name":"Rob and Cheryl McEwen Graduate Study & Research Building",
+      "acronym":"MB",
+      "latitude":43.774154,
+      "longitude":-79.497158,
+      "image":""
+   },
+   {
+      "name":"McLaughlin College",
+      "acronym":"MC",
+      "latitude":43.776982,
+      "longitude":-79.502763,
+      "image":""
+   },
+   {
+      "name":"Passy Gardens Residence",
+      "acronym":"PASSY",
+      "latitude":43.769306,
+      "longitude":-79.503473,
+      "image":""
+   },
+   {
+      "name":"Physical Resources Building",
+      "acronym":"PRB",
+      "latitude":43.777825,
+      "longitude":-79.496840,
+      "image":""
+   },
+   {
+      "name":"Ross Building - North",
+      "acronym":"R N",
+      "latitude":43.773158,
+      "longitude":-79.504332,
+      "image":""
+   },
+   {
+      "name":"Ross Building - South",
+      "acronym":"R S",
+      "latitude":43.772527,
+      "longitude":-79.504048,
+      "image":""
+   },
+   {
+      "name":"Seneca @ York",
+      "acronym":"SAY",
+      "latitude":43.771430,
+      "longitude":-79.498800,
+      "image":""
+   },
+   {
+      "name":"Scott Library",
+      "acronym":"SCL",
+      "latitude":43.772409,
+      "longitude":-79.505465,
+      "image":""
+   },
+   {
+      "name":"The Seymour Schulich Building",
+      "acronym":"SSB",
+      "latitude":43.773430,
+      "longitude":-79.498799,
+      "image":""
+   },
+   {
+      "name":"Steacie Science & Engineering Library",
+      "acronym":"STL",
+      "latitude":43.773619,
+      "longitude":-79.505844,
+      "image":""
+   },
+   {
+      "name":"West Office Building",
+      "acronym":"WOB",
+      "latitude":43.775338,
+      "longitude":-79.508122,
+      "image":""
+   },
+   {
+      "name":"York Student Fieldhouse (East/West) (Tait McKenzie Building)",
+      "acronym":"YSF",
+      "latitude":43.774234,
+      "longitude":-79.509407,
+      "image":""
+   },
+   {
+      "name":"Bergeron Centre for Engineering Excellence",
+      "acronym":"BRG",
+      "latitude":43.772350,
+      "longitude":-79.506684,
+      "image":""
+   },
+   {
+      "name":"New/Second Student Center",
+      "acronym":"STC2",
+      "latitude":43.772350,
+      "longitude":-79.506684,
+      "image":""
+   }
 ]
